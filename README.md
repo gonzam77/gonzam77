@@ -2,7 +2,7 @@
 About me
 
 <h1 align="center">Hi 👋, I'm Medina Gonzalo</h1>
-<h3 align="center">A passionate full stack developer from Argentina</h3>
+<h3 align="center">A passionate full stack developer from San Luis, Argentina</h3>
 
 <p>De chico me intereso siempre la tegnologia y logré armar con mi hermano una pequeña pagina sobre series animadas de todo el mundo, usando plantillas. Desde ahi siempre busqué aprender mas sobre este mundo, pasé por varios trabajos y carreras hasta que decidí estudiar lo que realmente me apacionara, y ahí es donde entra Henry para darme la oportunidad de incursionar en el mundo IT. Hoy puedo decir con total seguridad que mi vida va a desarrollarse dentro del mundo IT, en donde busco aprender todos los dias algo nuevo y crecer. Finalmente encontre mi lugar. 
 
