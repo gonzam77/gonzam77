@@ -4,11 +4,15 @@ About me
 <h1 align="center">Hi 👋, I'm Medina Gonzalo</h1>
 <h3 align="center">A passionate full stack developer from San Luis, Argentina</h3>
 
-<p>De chico me intereso siempre la tegnologia y logré armar con mi hermano una pequeña pagina sobre series animadas de todo el mundo, usando plantillas. Desde ahi siempre busqué aprender mas sobre este mundo, pasé por varios trabajos y carreras hasta que decidí estudiar lo que realmente me apacionara, y ahí es donde entra Henry para darme la oportunidad de incursionar en el mundo IT. Hoy puedo decir con total seguridad que mi vida va a desarrollarse dentro del mundo IT, en donde busco aprender todos los dias algo nuevo y crecer. Finalmente encontre mi lugar. 
+<p>Desde chico sentí una gran curiosidad por la tecnología. Junto a mi hermano armamos una pequeña página sobre series animadas de distintas partes del mundo utilizando plantillas, y desde ese momento supe que quería seguir aprendiendo sobre este universo.
 
-Mi meta es algún día poder tener mi propia pagina web en donde pueda aplicar lo que aprendi en el bootcamp, como React, React-redux, SQL, sequelize y poder darle la oportunidad a colegas de participar en el proyecto para devolver al mundo IT todo lo bueno que me brindó. Mientras tanto me gustaría formar parte de un proyecto ajeno para poder llevarme nuevas experiencias y aprendizajes, conocer gente nueva que puedan aportar a mis conocimientos y ser parte de mi crecimiento profesional.
+A lo largo de mi vida pasé por distintos trabajos y experiencias, hasta que decidí apostar por lo que realmente me apasionaba: el mundo IT. Fue entonces cuando encontré en Soy Henry la oportunidad de dar mis primeros pasos de manera profesional dentro del desarrollo de software.
 
-Gracias al grupo de Henry pude completar el programa de Teaching Assistants en donde pude crecer y enriquecer mis habilidades blandas, como el trabajo en equipo, el liderazgo, resolucion de conflictos, la comunicación efectiva y acertiva, entre otras. Y la verdad fué una experiencia enriquecedora en lo personal por lo cual vuelvo a agradecer al equipo de Henry por la experiencia y la oportunidad. </p>
+Hoy tengo la certeza de que quiero construir mi futuro dentro de esta industria. Disfruto aprender constantemente, enfrentar nuevos desafíos y seguir creciendo tanto a nivel técnico como personal. Siento que finalmente encontré mi lugar.
+
+Mi objetivo a largo plazo es desarrollar mi propio proyecto web, donde pueda aplicar tecnologías como React, Redux, SQL y Sequelize, además de generar oportunidades para que otros colegas puedan participar y crecer profesionalmente junto conmigo. Mientras tanto, busco formar parte de equipos y proyectos donde pueda seguir sumando experiencia, aprender de otras personas y aportar todo lo que esté a mi alcance.
+
+Además, tuve la oportunidad de formar parte del programa de Teaching Assistants de Soy Henry, una experiencia que me permitió fortalecer habilidades blandas fundamentales como el trabajo en equipo, el liderazgo, la comunicación efectiva y la resolución de conflictos. Fue una etapa muy enriquecedora tanto en lo profesional como en lo personal, y estoy muy agradecido por todo lo aprendido durante ese proceso. </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
